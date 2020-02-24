@@ -1,4 +1,4 @@
-🥳这里就用来记录小肖日常和学习进度吧～
+![about.jpg](https://i.loli.net/2020/02/25/dpYHM9JuP32RIQN.jpg)
 
-💕 Inspired by [777](https://xiaoqizhang.com/) , Created by [GitBook](https://www.gitbook.com/)
+<center>💕 Inspired by 777, Created by GitBook</center>
 
